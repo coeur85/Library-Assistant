@@ -19,6 +19,7 @@
         "libs/commons-codec-1.11.jar",
         "libs/commons-lang3-3.9.jar",
         "libs/gson-2.8.1.jar",
-        "libs/guava-21.0.jar"
+        "libs/guava-21.0.jar",
+        "/Library/Java/**/*.jar"
     ]
 }
