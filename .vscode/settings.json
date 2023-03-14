@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/jfoenix-8.0.4.jar",
+        "libs/javax.mail-1.6.1.jar",
+        "libs/boxable-1.5-RC.jar",
+        "libs/fontbox-2.0.4.jar",
+        "libs/javafx-swt.jar",
+        "libs/javafx.base.jar",
+        "libs/javafx.controls.jar",
+        "libs/javafx.fxml.jar",
+        "libs/javafx.graphics.jar",
+        "libs/javafx.media.jar",
+        "libs/javafx.swing.jar",
+        "libs/javafx.web.jar",
+        "libs/log4j-api-2.11.0.jar",
+        "libs/log4j-core-2.11.0.jar",
+        "libs/pdfbox-2.0.3.jar",
+        "libs/commons-codec-1.11.jar",
+        "libs/commons-lang3-3.9.jar",
+        "libs/gson-2.8.1.jar",
+        "libs/guava-21.0.jar"
+    ]
+}
