@@ -10,7 +10,7 @@
                   "request": "launch",
                   "mainClass": "library.assistant.ui.main.Main",
                   "projectName": "Library-Assistant_ab4a6bd7",
-                  "vmArgs": "module-path=/Library/Java/Extensions/javafx-sdk-19.0.2.1/lib --add-modules=javafx.controls,javafx.fxml",
+                  "vmArgs": "--module-path=/Users/magdi/source/repos/Library-Assistant/libs --add-modules=javafx.controls,javafx.fxml",
             }
       ]
 }
